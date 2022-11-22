@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       Welcome to School Application
-      <div>Users List</div>
+      <div>Users Dashboard</div>
       <table id="usersTable">
         <thead>
           <tr>
